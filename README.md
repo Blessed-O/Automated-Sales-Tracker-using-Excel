@@ -1,4 +1,10 @@
 # Automated-Sales-Tracker-using-Excel
+# Table of Content
+- [Project Overview](https://github.com/Blessed-O/Automated-Sales-Tracker-using-Excel/blob/main/README.md#project-overview)
+
+- [Dashboard](https://github.com/Blessed-O/Automated-Sales-Tracker-using-Excel/blob/main/README.md#dashboard)
+
+- [Key Features](https://github.com/Blessed-O/Automated-Sales-Tracker-using-Excel/blob/main/README.md#key-features)
 # Project Overview
 Managing sales and inventory manually can be overwhelming, especially for small businesses. This project is an automated Excel-based Sales Tracker & Inventory Management System built for my business, BOXITBYLOLA (a gifting brand). This system simplifies sales tracking, automates stock updates, and generates real-time insights through a dynamic dashboard.
 # Dashboard
